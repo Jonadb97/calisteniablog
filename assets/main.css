@@ -84,6 +84,8 @@ table th { background-color: #e2e2e2; border: 1px solid #d0d0d0; border-bottom-c
 
 table td { border: 1px solid #dadada; }
 
+#cuerpoEjercicios { display: flex; flex-direction: column; }
+
 /**
 List Styles
 **/
